@@ -1,6 +1,6 @@
 # Mother-Clock
 
-This little project shows time, temperature and a set of clothes you need to wear depending the temperature, on a 16x2 LCD screen.
+This little project shows time, temperature and a set of clothes you need to wear regarding the temperature, on a 16x2 LCD screen.
 It also uses pre-made alarms that goes off for the duration you desire.
 It's called 'Mother-Clock', because it is a clock that gives you advices like a mother :)
 
