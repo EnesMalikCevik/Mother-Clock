@@ -16,3 +16,5 @@ Required components:
 Connecting wires (M-M and F-M) 
 1	Breadboard
 1 9V battery and its adapter
+
+You can find all the additional libraries that are required above.
