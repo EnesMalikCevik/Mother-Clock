@@ -6,7 +6,7 @@ It's called 'Mother-Clock', because it is a clock that gives you advices like a 
 
 Required components: 
 
-1 Arduino UNO 
+1 Arduino UNO \n
 1	16X2 LCD with I2C module
 1	DS3231 RTC Module
 1 DHT11 Temperature Module
