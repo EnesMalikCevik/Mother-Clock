@@ -6,15 +6,15 @@ It's called 'Mother-Clock', because it is a clock that gives you advices like a 
 
 Required components: 
 
-1 Arduino UNO \n
-1	16X2 LCD with I2C module
-1	DS3231 RTC Module
-1 DHT11 Temperature Module
-2	Buzzers
-2 Leds (one blue one red)
-4	330 ohm resistors
-Connecting wires (M-M and F-M) 
-1	Breadboard
-1 9V battery and its adapter
+1 Arduino UNO, 
+1	16X2 LCD with I2C module,
+1	DS3231 RTC Module,
+1 DHT11 Temperature Module,
+2	Buzzers,
+2 Leds (one blue one red),
+4	330 ohm resistors,
+Connecting wires (M-M and F-M) ,
+1	Breadboard,
+1 9V battery and its adapter,
 
 You can find all the additional libraries that are required above.
